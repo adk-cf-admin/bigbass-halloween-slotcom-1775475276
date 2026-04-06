@@ -1,0 +1,200 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#310d1a",
+            "lang-select-color": "#222829",
+            "bg-light": "#310d1a",
+            "welcome-bonus-bg": "#310d1a",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#1c070f",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#FC0A09",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#32CE3E",
+            "yellow": "#FC0A09",
+            "yellow-button": "#32CE3E",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#FC0A09",
+            "casino-cards": "#310d1a",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#FC0A09",
+            "providers-back": "#310d1a",
+            "faq-label": "#310d1a",
+            "bg-footer": "#310d1a",
+            "copyright": "#e7e7d5",
+            "starColor": "#FC0A09",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5736"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5738",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Big Bass Halloween Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5739",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Big Bass Halloween"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Big Bass Halloween",
+                    "title": "Big Bass Halloween Slot — 96.04% RTP, Up to 20 Free Spins, and 2x–2,000x Fish Values",
+                    "description": "Explore Big Bass Halloween, a 5x3 slot with 10 fixed paylines, up to 20 Free Spins, money fish worth 2x to 2,000x the bet, and retrigger upgrades that raise multipliers to x2, x3, and x10.",
+                    "canonical": "bigbass-halloween-slot.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5740",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "bigbass-halloween-slot.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5741"
+                },
+                "hero": {
+                    "title": "Big Bass Halloween — Up to 20 Free Spins, 2,000x Money Fish, and x10 Multipliers",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5742",
+                    "imageSizeModifier": 10,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5743",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Spooky theme keeps classic Big Bass feel",
+                        "Money fish can deliver standout payouts",
+                        "Simple mechanics suit both new players",
+                        "Free spins improve with each retrigger",
+                        "Fisherman collects all visible fish values",
+                        "Fixed paylines make win patterns easy",
+                        "2000x fish values boost excitement strongly"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "Know more",
+                    "appTitle": "Big Bass Halloween App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5744",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Big Bass Halloween App",
+                    "mobileGooglePlayImageTitle": "Big Bass Halloween App",
+                    "mobileIosImageTitle": "Big Bass Halloween App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Big Bass Halloween",
+                        "description1": "Big Bass Halloween is a spooky Pragmatic Play slot that takes the familiar fishing formula and gives it a darker Halloween twist.",
+                        "items": [],
+                        "description2": "It uses a 5x3 layout with 10 fixed paylines, making the gameplay easy to follow from the very first spin. The base game introduces the eerie visual style, while the money fish and the fisherman keep the classic Big Bass identity intact. The real momentum builds inside the Free Spins feature, where collected fish values and retriggers can significantly improve the session. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5745",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "In practice, Big Bass Halloween feels strongest for players who enjoy simple rules with a clear bonus-driven structure. It is a stylish seasonal version of the Big Bass concept that keeps the gameplay recognizable while making the atmosphere much more dramatic."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Big Bass Halloween — slot review and features",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Halloween Slot Features and Core Mechanics\n<\/h3>\n<p>\nBig Bass Halloween is a 5x3 video slot that keeps the familiar Big Bass structure while adding a darker Halloween atmosphere. The game uses 10 fixed paylines, a Fisherman Wild, and money fish symbols with values ranging from 2x to 2,000x the total bet. Landing 3 or more Scatters activates the Free Spins feature with up to 20 free games. During the bonus, every fourth collected Fisherman symbol awards 10 extra spins and upgrades the fish multiplier to x2, then x3, and finally x10.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBig Bass Halloween Key Characteristics\n<\/h4>\n<ul>\n            <li>• Provider: Pragmatic Play<\/li>\n            <li>• Reels and rows: 5x3<\/li>\n            <li>• Paylines: 10 fixed paylines<\/li>\n            <li>• RTP: 96.04%<\/li>\n            <li>• Money fish values: 2x to 2,000x bet<\/li>\n            <li>• Bonus trigger: 3 or more Scatters<\/li>\n            <li>• Free Spins award: up to 20 spins<\/li>\n            <li>• Retrigger rule: every fourth Fisherman adds 10 spins<\/li>\n            <li>• Bonus multipliers: x2, x3, x10<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWhere to Play Big Bass Halloween\n<\/h3>\n<p>\nBig Bass Halloween is usually available on platforms that feature licensed slot content from major game providers. The slot is commonly offered in browser format and on mobile devices, which makes it convenient to launch on desktop, tablet, or smartphone. It is often placed inside seasonal game collections, Pragmatic Play sections, and Halloween-themed slot categories. Many players start with demo mode before moving to real-balance play. The best experience usually comes from platforms with clear betting limits, smooth game loading, and simple controls.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Halloween Demo Mode\n<\/h3>\n<p>\nThe Big Bass Halloween demo mode lets players explore the slot without risking real funds and makes it easier to understand the bonus structure. This is especially useful in a game where the most exciting moments usually come from reaching Free Spins and combining the Fisherman with money fish symbols. In demo play, you can test betting rhythm, feature flow, and overall game pace before switching to real balance. It is a practical option for both new players and experienced Big Bass fans.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Halloween Payout Table and Prize Highlights\n<\/h3>\n<p>\nBig Bass Halloween combines standard line wins with a money-collect mechanic, which gives the slot a stronger payout identity than a typical seasonal release. Regular symbols pay from left to right on fixed paylines, while the money fish create the most exciting reward potential during Free Spins. The table below gives a clear overview of how Big Bass Halloween builds its payout structure.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color:#FC0A09;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Big Bass Halloween Symbol Group<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">How the Payout Works<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout Potential<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Low symbols: 10, J, Q, K, A<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3–5 matching symbols on a payline from left to right<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 10x for five of a kind<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Premium Halloween symbols<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3–5 matching symbols on a payline from left to right<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">About 20x to 200x for five of a kind<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Money fish symbols<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Collected by the Fisherman during Free Spins<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2x to 2,000x the total bet<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Scatter<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3 or more anywhere on the reels<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Triggers up to 20 Free Spins<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Fisherman Wild<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Substitutes regular symbols and collects fish in bonus<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Can sharply increase one winning spin<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow to Win in Big Bass Halloween Based on Real Play Experience\n<\/h3>\n<p>\nThe best way to approach Big Bass Halloween is not to chase a “lucky spin,” but to understand where the real payout potential sits. In practical play, stronger results usually come from the bonus round rather than the base game, especially when the Fisherman lands together with several money fish in the same Free Spins sequence. A smart approach is built around discipline: a comfortable bet size, a bankroll that can handle dry stretches, and no emotional stake jumps after a few losses. Big Bass Halloween is far more rewarding for players who respect its rhythm than for those who play impulsively. The real edge comes from patience, structure, and realistic expectations rather than from trying to force quick wins.\n<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Big Bass Halloween — bonuses, features, and how to play",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Halloween Bonuses, Special Features, and Core Rewards\n<\/h3>\n<p>\nBig Bass Halloween is built around its bonus structure, and that is exactly what gives the slot its strongest identity. Standard line wins are present in the base game, but the real excitement starts when Scatters trigger the Free Spins round. Inside the feature, every money fish becomes far more important, because the Fisherman can collect all visible cash values in a single moment. The bonus also grows in strength through retriggers, which means the feature does not just last longer — it becomes more rewarding. This progressive feeling is one of the main reasons why Big Bass Halloween stands out among seasonal fishing slots. Its strongest appeal comes from the combination of Free Spins, money fish, retriggers, and upgraded multipliers.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBig Bass Halloween Free Spins Trigger\n<\/h4>\n<ul>\n            <li>• Landing 3 or more Scatter symbols activates the bonus round. The initial entry can award up to 20 Free Spins, making this the most important feature trigger in the slot.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBig Bass Halloween Money Fish\n<\/h4>\n<ul>\n            <li>• Money fish can appear with random values from 2x to 2,000x the total bet. Their value becomes especially important when the Fisherman lands during the bonus.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBig Bass Halloween Fisherman Collection Feature\n<\/h4>\n<ul>\n            <li>• During Free Spins, the Fisherman collects the value of every visible money fish. This is the core payout mechanic and the feature responsible for the slot’s most memorable wins.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBig Bass Halloween Retriggers\n<\/h4>\n<ul>\n            <li>• Every fourth collected Fisherman symbol awards 10 extra Free Spins. This keeps the feature alive and creates room for longer, more rewarding bonus sequences.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBig Bass Halloween Multiplier Stages\n<\/h4>\n<ul>\n            <li>• After the first retrigger, fish values are multiplied by x2. After the second, the multiplier becomes x3. After the third upgrade, the feature reaches x10.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBig Bass Halloween Clear Game Structure\n<\/h4>\n<ul>\n            <li>• The 5x3 layout and 10 fixed paylines make the slot easy to understand. Players can quickly separate regular line wins from the much stronger bonus-driven payout potential.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Halloween Free Spins and Multiplier Table\n<\/h3>\n<p>\nFree Spins are the heart of Big Bass Halloween and the place where the slot reveals its full potential. This is where the Fisherman starts collecting money fish values and where the multiplier ladder turns a normal bonus into a much stronger feature run. The table below makes the Free Spins structure easy to understand at a glance.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #FC0A09;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Big Bass Halloween Bonus Stage<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Activation Rule<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Reward \/ Multiplier<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bonus entry<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Land 3 or more Scatter symbols<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 20 Free Spins<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>First upgrade stage<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Collect 4 Fisherman symbols during bonus<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">+10 Free Spins, x2 multiplier<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Second upgrade stage<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Collect 4 more Fisherman symbols<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">+10 Free Spins, x3 multiplier<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Third upgrade stage<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Collect 4 more Fisherman symbols<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">+10 Free Spins, x10 multiplier<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Main bonus mechanic<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Fisherman lands with money fish on screen<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Collects all visible fish values<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow to Play Big Bass Halloween\n<\/h3>\n<p>\nBig Bass Halloween is easy to start, even for players who are new to the Big Bass series. The basic flow is simple: choose a bet, spin the reels, and watch for standard line wins as well as the chance to enter the bonus round. The most important part of the game begins in Free Spins, where the Fisherman collects money fish values and creates the slot’s strongest payout potential.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 1 — Choose Your Big Bass Halloween Bet\n<\/h4>\n<ul>\n            <li>• Select a bet size that feels comfortable for your balance and lets you handle normal losing stretches without pressure.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 2 — Start the Base Spins\n<\/h4>\n<ul>\n            <li>• In the base game, wins are formed across 10 fixed paylines. At the same time, you are also looking for the Scatter setup that can open the bonus feature.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 3 — Trigger the Bonus Round\n<\/h4>\n<ul>\n            <li>• Landing 3 or more Scatter symbols activates the Free Spins feature. This is the main event in Big Bass Halloween and the point where the slot becomes much more dynamic.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 4 — Watch the Fisherman and the Money Fish\n<\/h4>\n<ul>\n            <li>• During Free Spins, the Fisherman collects the values of all visible money fish. Strong combinations between these symbols are what create the biggest feature moments.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 5 — Follow the Retrigger Progress\n<\/h4>\n<ul>\n            <li>• Every fourth collected Fisherman symbol gives 10 more Free Spins. As the feature upgrades, the multiplier also grows and makes the bonus more powerful.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Halloween Playing Tips\n<\/h3>\n<p>\nBig Bass Halloween works best when treated as a bonus-focused slot rather than a game built around constant small wins. The most comfortable approach is to choose your pace in advance and avoid changing it after a few emotional spins. The calmer and more structured the session feels, the easier it becomes to understand the slot’s real rhythm and protect your balance.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTip 1 — Keep Your Bet Stable\n<\/h4>\n<ul>\n            <li>• Sudden stake jumps usually create unnecessary pressure on the bankroll. A steady bet size is a much safer way to experience the slot.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTip 2 — Play with the Bonus in Mind\n<\/h4>\n<ul>\n            <li>• The strongest value in Big Bass Halloween comes from Free Spins, not from the base game alone. Plan your session with enough room to wait for feature opportunities.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTip 3 — Test the Demo First\n<\/h4>\n<ul>\n            <li>• Demo mode is useful for learning whether the pace and bonus rhythm of Big Bass Halloween actually suit your style before using real balance.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTip 4 — Set Session Limits Before You Start\n<\/h4>\n<ul>\n            <li>• A pre-set spending limit and a clear stop point after a strong win help keep the session controlled from beginning to end.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTip 5 — Do Not Overvalue One Good Bonus\n<\/h4>\n<ul>\n            <li>• A great feature run does not guarantee another one right away. Long-term discipline matters more than chasing the feeling of one big hit.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBig Bass Halloween Mistakes That Drain the Bankroll\n<\/h3>\n<p>\nIn Big Bass Halloween, bankroll problems usually come not from the slot “being bad,” but from approaching its rhythm in the wrong way. This is a game where calm stretches can suddenly turn into a strong bonus run, and misunderstanding that pattern is one of the main reasons players lose control. The more decisions are driven by emotion, the faster the session becomes expensive.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 1 — Starting with Stakes That Are Too High\n<\/h4>\n<ul>\n            <li>• Many players begin too aggressively and leave no room to wait for the bonus feature. A few dry stretches can damage the balance before the slot even shows its main potential.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 2 — Raising Bets After Losses\n<\/h4>\n<ul>\n            <li>• Trying to recover quickly by increasing the stake usually makes the situation worse. It breaks bankroll control and speeds up the losses.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 3 — Playing Without a Session Limit\n<\/h4>\n<ul>\n            <li>• Waiting for a “good bonus” can keep players in the game longer than planned. Without a clear limit, spending often goes beyond what felt acceptable at the start.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 4 — Expecting the Base Game to Carry the Session\n<\/h4>\n<ul>\n            <li>• Some players expect regular spins to constantly support the bankroll. In reality, Big Bass Halloween is much more bonus-driven than many casual players first assume.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMistake 5 — Skipping the Demo Version\n<\/h4>\n<ul>\n            <li>• Going straight into real play without testing the slot often creates the wrong expectations. That confusion usually leads to emotional and expensive decisions.<\/li>\n<\/ul><br>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Does Big Bass Halloween have autoplay?",
+                            "answer": "In many versions, autoplay is available. It is useful for players who want to follow the session calmly without pressing the spin button every time."
+                        },
+                        {
+                            "title": "Does the slot look different from classic Big Bass games?",
+                            "answer": "Yes, Big Bass Halloween has a much darker and more seasonal presentation. The Halloween theme changes the symbols, atmosphere, and overall visual tone."
+                        },
+                        {
+                            "title": "Can you understand the slot’s rhythm quickly?",
+                            "answer": "Yes, especially if you start in demo mode. It becomes clear quite fast that the game is built more around bonus features than around constant base-game support."
+                        },
+                        {
+                            "title": "What makes Big Bass Halloween different from many seasonal slots?",
+                            "answer": "The biggest difference is that it combines Halloween styling with the proven Big Bass money-collection formula. That gives the game stronger gameplay depth than a theme-only release."
+                        },
+                        {
+                            "title": "Is the interface overloaded with features?",
+                            "answer": "No, the interface is fairly clean and easy to read. This is a big plus for players who prefer a more focused slot layout."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
